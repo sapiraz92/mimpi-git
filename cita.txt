@@ -6,3 +6,6 @@ agenda yang akan datang
 -belajar-js
 -kolaboraasi
 kjlkjlkjlj
+
+boostrap 
+laravel
